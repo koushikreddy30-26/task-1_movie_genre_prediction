@@ -1,0 +1,35 @@
+Accuracy: 0.52310246241815
+
+              precision    recall  f1-score   support
+
+      action       0.57      0.08      0.14       263
+       adult       0.88      0.06      0.12       112
+   adventure       0.29      0.03      0.05       139
+   animation       0.00      0.00      0.00       104
+   biography       0.00      0.00      0.00        61
+      comedy       0.51      0.44      0.47      1443
+       crime       0.00      0.00      0.00       107
+ documentary       0.58      0.88      0.70      2659
+       drama       0.46      0.83      0.59      2697
+      family       1.00      0.01      0.01       150
+     fantasy       0.00      0.00      0.00        74
+   game-show       1.00      0.15      0.26        40
+     history       0.00      0.00      0.00        45
+      horror       0.73      0.38      0.50       431
+       music       0.79      0.10      0.18       144
+     musical       0.00      0.00      0.00        50
+     mystery       0.00      0.00      0.00        56
+        news       0.00      0.00      0.00        34
+  reality-tv       0.80      0.02      0.04       192
+     romance       0.00      0.00      0.00       151
+      sci-fi       0.86      0.04      0.08       143
+       short       0.59      0.11      0.18      1045
+       sport       0.73      0.09      0.15        93
+   talk-show       0.00      0.00      0.00        81
+    thriller       0.27      0.01      0.02       309
+         war       0.00      0.00      0.00        20
+     western       0.98      0.59      0.74       200
+
+    accuracy                           0.52     10843
+   macro avg       0.41      0.14      0.16     10843
+weighted avg       0.52      0.52      0.44     10843
